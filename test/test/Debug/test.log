@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\arvaroh\work\wargaming\test\test\field.cpp(32): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  field.cpp
+d:\arvaroh\work\wargaming\test\test\field.cpp(32): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+d:\arvaroh\work\wargaming\test\test\field.cpp(30): warning C4715: Field::define_symbol: значение возвращается не при всех путях выполнения
+  test.vcxproj -> D:\arvaroh\work\Wargaming\test\Debug\test.exe
+  test.vcxproj -> D:\arvaroh\work\Wargaming\test\Debug\test.pdb (Partial PDB)
